@@ -1,1 +1,1 @@
-console.log('yes i am readu');
+console.log('yes i am ready');
